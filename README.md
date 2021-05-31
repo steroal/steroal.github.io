@@ -1,27 +1,37 @@
-基于Github Page博客框架（于2019/7月开源）
-======================
+## Welcome to GitHub Pages
 
-完全基于前端，不包括任何后台
--------------------------
+You can use the [editor on GitHub](https://github.com/steroal/steroal.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-本套源码主要用到以下几个框架和相关技术：
-  * 使用百度统计来记录和分析用户访问的流量
-  * 使用畅言来实现用户留言功能
-  * 域名使用腾讯云，使用七牛进行访问加速
-  * 视频微处理，以实现在线播放
-  * 使用HTML5、Canvas等完成博客主体的搭建
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-* 博客展示效果：https://xiaohegithub.cn/
-* 如何使用这套框架：https://www.zhihu.com/question/59088760/answer/161640592
+### Markdown
 
-附
-==
-* cc文件夹下为一套类似相册的demo，以前弄着玩的，展示地址为：https://xiaohegithub.cn/cc/
-* demo文件夹下为一套PPT展示模板，展示地址为：https://xiaohegithub.cn/demo/
-* flashdemo文件夹下为一套有趣的网页特效，展示地址为:https://xiaohegithub.cn/flashdemo/flash
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-以上文件夹不属于博客主体代码，所以如果觉得不必要，可以删除
------------------------------------------------------
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
 
+- Bulleted
+- List
 
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/steroal/steroal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
